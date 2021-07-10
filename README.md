@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABC-chocolate
+- 👋 Hi, I’m Anglea
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me: please contact me on angelaisafatcat@gmail.com
